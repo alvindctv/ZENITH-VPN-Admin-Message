@@ -1,4 +1,3 @@
-# ZENITH-VPN-Admin-Message
 {
 "SendMessage":5,
 "MyMessage":
