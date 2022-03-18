@@ -1,6 +1,6 @@
 # ZENITH-VPN-Admin-Message
 {
-"SendMessage":4,
+"SendMessage":5,
 "MyMessage":
 "PLEASE Wag i Abuse Ang Ating Server 😔"
 }
