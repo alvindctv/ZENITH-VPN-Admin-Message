@@ -1,5 +1,5 @@
 {
-"SendMessage":7,
+"SendMessage":1,
 "MyMessage":
 "WELCOME AND ENJOY USING MY VPN
 ZENITH VPN MADE WITH LOVE"
