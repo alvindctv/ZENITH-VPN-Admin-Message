@@ -1,8 +1,6 @@
 {
-"SendMessage":9,
+"SendMessage":10,
 "MyMessage":
 "WELCOME AND ENJOY
  ZENITH VPN 
-- STS NO LOAD
-- PROMONET ( NO BLOCK ) 
-- GTM NO LOAD ( IP HUNT ) }
+-WAG MAG TORRENT AT MANUOD NG  BOLD}
